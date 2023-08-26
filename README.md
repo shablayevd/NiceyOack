@@ -4,6 +4,7 @@ iceyOack
 
 NiceyOack# NiceyOack
 vN
+        const profilePassword = data.profiles[i].password;
 
         const profilePassword = data.profiles[i].password;
 iles[i].id;
