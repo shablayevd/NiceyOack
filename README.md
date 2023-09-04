@@ -2,7 +2,7 @@
 NiceyOack
 iceyOack
 
-NiceyOack# NiceyOack
+NiceyOack# NiceyOa
 vN
         const profilePassword = data.profiles[i].password;
 
