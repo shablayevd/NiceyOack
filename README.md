@@ -1,6 +1,6 @@
 # N
 NiceyOa
-iceyOa
+icey
 NiceyOack# NiceyOa
 vN
         const profilePassword = data.profiles[i].password;
