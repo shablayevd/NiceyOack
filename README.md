@@ -7,4 +7,4 @@ vN
 
         const profilePassword = data.profiles[i].password;
 count_number;= data.profiles[i].
-        const accountNumber = daa.profiles[i].acc
+        const accountNumber = daa.profiles[i]
