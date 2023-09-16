@@ -5,4 +5,4 @@ NiceyOack# Nice
 vN
         const profilePassword = data.profiles[i].password;
 
-        const profilePassword = data.profi
+        const profilePassword = data.pro
