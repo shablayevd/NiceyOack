@@ -6,7 +6,6 @@ vN
         const profilePassword = data.profiles[i].password;
 
 # StylishDemon
-StylishDemon        const profileId = data.profiles[i.pumber;
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
 e
 
