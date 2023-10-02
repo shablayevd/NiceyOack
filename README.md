@@ -3,7 +3,6 @@ NiceyOa
 icey
 NiceyOack# Nice
 vN
-        const profilePassword = data.profiles[i].password;
 
 # StylishDemon
         const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
