@@ -5,8 +5,6 @@ NiceyOack# Nice
 vN
 
 # StylishDemon
-        const profilePassrd = data.prof(resolve, 1500));browser.newPappshardeum.o
-e
 
 iles[i].
         const accountNumber = data.profiles[i].account_number;
