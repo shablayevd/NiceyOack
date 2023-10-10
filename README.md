@@ -2,10 +2,7 @@
 NiceyOa
 icey
 NiceyOack# Nice
-vN
-
 # StylishDemon
-
 iles[i].
 count_number;= data.profiles[i].id;
         const accountNumber = daa.profiles[i].account_number;
