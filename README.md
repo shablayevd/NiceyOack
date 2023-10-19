@@ -1,8 +1,6 @@
 # N
 Nice
-icey
-Nice
-icey
+i
 Nice
 icey
 Nice
