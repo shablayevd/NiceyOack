@@ -2,5 +2,3 @@
 Nice
 i
 icey
-Nice
-icey
