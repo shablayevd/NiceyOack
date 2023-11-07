@@ -1,7 +1,6 @@
 
 icey
-Nice
-Nice# Do-Not-Read-Me# Dead-Me# DorkIdlelector3, 
+Nice-Me# DorkIdlelector3, 
         const profilePasswof
         ].password;
 
