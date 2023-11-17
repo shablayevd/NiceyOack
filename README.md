@@ -1,7 +1,5 @@
 or3, 
-        const accountNumber = data.profiles[i].account_number;
-        const accountNumber = daa.profiles[i].account_nu
-        const accountNumber = daa.profiles[i].account_numb
+        const accountNumber = daprofiles[i].account_numb
 
         const accountNumber = data.profiles[i].account_number;
         const accountNumber = daa.profiles[i].account_numb
