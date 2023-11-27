@@ -1,6 +1,5 @@
 or3, 
-        const accountNumber = daprofiles[i].account_numb
-profili].password;
+        const accountNu
 iles[i].id;
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profiles[es[i].password;        
