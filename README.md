@@ -1,7 +1,5 @@
 or3, 
-        const accountNu
-iles[i].id;ber = data.profiles[i].account_numbe da.profiles[es[i].password;        
-                        await page4.waitForNetworkIdle(l
+        const accountN
                         await page4.waitForSelector(elementSelector5
                         await page4.click(elementSelector5);
                         await page4.waitForNetworkIdle(iles[i].id;
