@@ -1,7 +1,6 @@
 or3, 
         const accountN
-                        await page4.waitForSelector(elementSelector5
-                        await page4.click(elementSelector5);
+                        await page4.waitForSeltor5);
                         await page4.waitForNetworkIdle(iles[i].id;
 count_number;= data.profiles[i]
         const accountNumber = daa.profiles[i].account_number;
