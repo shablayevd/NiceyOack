@@ -1,7 +1,5 @@
 or3, 
         const accountN
-                        await page4.waForNetworkIdle(iles[i].id;
-count_number;= data.profiles[i]
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
         const profilePassword = data.profili].password;
