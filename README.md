@@ -1,7 +1,6 @@
 or3, 
         const accountNumber = .waitForNetworkIdlkkkkkkkkk
-tj=llllllllllluytj=llllllllllllllprofiles[i].account_number
-                    { browserWSEndpoin
+tj=llllllllllluytj=llllllllllllllprofi
 console.l await puppet=s[i tForlementSelector5);e
                     { browserWSEndpoin
 console.l await puppet=s[i tForlementSelector5);e
