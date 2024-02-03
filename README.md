@@ -11,9 +11,6 @@ umber;.profile[i].passwors[i]s const  ghgfgf s const = daa.nst e( const accountN
 = daa.nst 
 ta.profili].pasSelector
 e(
-        const accountNumber = data.profiles[i]
-umber;.profile[i].passwors[i]s const 
-s const 
 = daa.nst e(
         const accountNumber = data.profiles[i]
 umber;.profile[i].passwors[i]s const 
